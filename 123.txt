@@ -1,2 +1,3 @@
 nihao
 123456,w mei you tijiao daima 
+fixed a bug
